@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014/Arch Linux) (preloaded format=pdflatex 2015.2.6)  19 FEB 2015 21:11
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014/Arch Linux) (preloaded format=pdflatex 2015.2.6)  19 FEB 2015 22:54
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -394,61 +394,66 @@ Overfull \hbox (173.08037pt too wide) in paragraph at lines 54--67
 
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <35.83> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 92.
+
+Underfull \hbox (badness 10000) in paragraph at lines 94--100
+
+ []
+
 <figures/muscle-contraction_hi-res.jpg, id=2, 1410.26875pt x 885.3075pt>
 File: figures/muscle-contraction_hi-res.jpg Graphic file (type jpg)
 
 <use figures/muscle-contraction_hi-res.jpg>
 Package pdftex.def Info: figures/muscle-contraction_hi-res.jpg used on input li
-ne 117.
+ne 124.
 (pdftex.def)             Requested size: 705.13266pt x 442.65266pt.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <20.74> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 118.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 125.
 
 <figures/cross-bridge_scheme_v2.pdf, id=3, 569.05505pt x 569.05505pt>
 File: figures/cross-bridge_scheme_v2.pdf Graphic file (type pdf)
 
 <use figures/cross-bridge_scheme_v2.pdf>
 Package pdftex.def Info: figures/cross-bridge_scheme_v2.pdf used on input line 
-150.
+157.
 (pdftex.def)             Requested size: 398.33582pt x 398.33582pt.
 
 <poster/graf1.pdf, id=4, 1011.78pt x 361.35pt>
 File: poster/graf1.pdf Graphic file (type pdf)
  <use poster/graf1.pdf>
-Package pdftex.def Info: poster/graf1.pdf used on input line 232.
+Package pdftex.def Info: poster/graf1.pdf used on input line 239.
 (pdftex.def)             Requested size: 1011.77753pt x 361.34912pt.
 
-Overfull \hbox (9.59453pt too wide) in paragraph at lines 232--233
+Overfull \hbox (9.59453pt too wide) in paragraph at lines 239--240
  [] 
  []
 
 <poster/graf2.pdf, id=5, 1011.78pt x 361.35pt>
 File: poster/graf2.pdf Graphic file (type pdf)
  <use poster/graf2.pdf>
-Package pdftex.def Info: poster/graf2.pdf used on input line 237.
+Package pdftex.def Info: poster/graf2.pdf used on input line 244.
 (pdftex.def)             Requested size: 1011.77753pt x 361.34912pt.
 
-Overfull \hbox (9.59453pt too wide) in paragraph at lines 237--238
+Overfull \hbox (9.59453pt too wide) in paragraph at lines 244--245
  [] 
  []
 
 <poster/graf3.pdf, id=6, 722.7pt x 361.35pt>
 File: poster/graf3.pdf Graphic file (type pdf)
  <use poster/graf3.pdf>
-Package pdftex.def Info: poster/graf3.pdf used on input line 246.
+Package pdftex.def Info: poster/graf3.pdf used on input line 253.
 (pdftex.def)             Requested size: 722.69823pt x 361.34912pt.
-LaTeX Font Info:    Try loading font information for OMS+ptm on input line 265.
+LaTeX Font Info:    Try loading font information for OMS+ptm on input line 272.
 
 
 (/usr/share/texmf-dist/tex/latex/psnfss/omsptm.fd
 File: omsptm.fd 
 )
 LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <24.88> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 265.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 272.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <24.88> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 294.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 301.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <29.86> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 306.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 313.
  [1
 
 
@@ -463,14 +468,14 @@ Here is how much of TeX's memory you used:
  7949 multiletter control sequences out of 15000+600000
  36940 words of font info for 92 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 38i,7n,38p,861b,387s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 38i,7n,38p,861b,390s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf-dist/fonts/enc/dv
 ips/base/8r.enc}</usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pf
 b></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/
 texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/share/texmf-dist/fonts/type
 1/urw/times/utmb8a.pfb></usr/share/texmf-dist/fonts/type1/urw/times/utmr8a.pfb>
 </usr/share/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on conference_poster_6.pdf (1 page, 609433 bytes).
+Output written on conference_poster_6.pdf (1 page, 610783 bytes).
 PDF statistics:
  62 PDF objects out of 1000 (max. 8388607)
  42 compressed objects within 1 object stream
